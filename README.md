@@ -1,0 +1,1 @@
+This is product recommender system project. It uses SVD algorithm of collaborative filtering approach, and 3 experiments:  1) Baseline vs SVD, 2) Event-to-Rating Mapping Variants and 3) Hyperparameter Tuning are done.
